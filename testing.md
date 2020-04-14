@@ -59,12 +59,21 @@
     <th class="tg-yw4l">  VerifyML; ICSE2018 </th>   
   </tr>
     
+
+  
+  <tr>
+    <th class="tg-yw4l"> Combinatorial Testing for Deep Learning Systems
+  </th> 
+    <th> <a href="https://arxiv.org/abs/1806.07723">link</a> </th>    
+    <th class="tg-yw4l">  ISSTA2018 </th>   
+  </tr>
+  
   <tr>
     <th class="tg-yw4l"> Identifying Implementation Bugs in Machine Learning based Image Classifiers using Metamorphic Testing </th> 
     <th> <a href="https://sites.google.com/site/anuragdwarakanath/publications">link</a> </th>    
     <th class="tg-yw4l">  ISSTA2018 </th>   
   </tr>
-    
+  
   <tr>
     <th class="tg-yw4l"> Testing and Validating Machine Learning Classifiers by Metamorphic Testing </th> 
     <th> <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.7982&rep=rep1&type=pdf">link</a> </th>    
